@@ -10,6 +10,6 @@ Contribuição:
 Se você encontrar algum problema em meus projetos ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 Contato:
-LinkedIn: https://www.linkedin.com/in/pedro-eduardo-317544217/
-Email: pedro.edu2167@gmail.com
+LinkedIn: https://www.linkedin.com/in/pe-edu-dev/
+Email: pedro.edu2168@gmail.com
 
